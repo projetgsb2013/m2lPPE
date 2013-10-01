@@ -14,8 +14,10 @@ namespace PPE_MISSION_2_MAISON_DES_LIGUES
     {
         conexion conect = new conexion();
 
-        public void verifUtilisateur(string login,string mdp)
+        public bool verifUtilisateur(string login,string mdp,out int pGrade)
         {
+            bool Verif = false;
+            pGrade = 888;
             try
             {
                 string connStr = "Data Source = WIN-921C8FKTGAE; Initial Catalog=m2l_Marco_Salim ;User ID=sio2slam ;Password=";
@@ -30,30 +32,19 @@ namespace PPE_MISSION_2_MAISON_DES_LIGUES
                 SqlDataReader unJeuResultat = maCommande.ExecuteReader();
                 if (unJeuResultat.Read()) // lecture d’une ligne
                 {
-                    int grade = (int)unJeuResultat["idGrade"];
-                    if (grade == 1)
-                    {
-                        // MENU RESPONSABLE
-                        menuGrade1 menu1 = new menuGrade1();
-                        menu1.Show();
-                    }
-                    else
-                    {
-                        // MENU UTILISATEUR
-                        menuGrade0 menu0 = new menuGrade0();
-                        menu0.Show();                        
-                    }
+                    Verif = true;
+                    pGrade = (int)unJeuResultat["idGrade"];
                 }
                 else
                 {
-                    erreurAuthen erreur = new erreurAuthen();
-                    erreur.Show();
+                    Verif = false;
                 }
             }
             catch (Exception ex)
             {
 
             }
+            return Verif;
         }
     }
 }

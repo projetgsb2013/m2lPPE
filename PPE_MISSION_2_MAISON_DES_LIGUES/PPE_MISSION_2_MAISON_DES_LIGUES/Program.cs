@@ -7,6 +7,7 @@ namespace PPE_MISSION_2_MAISON_DES_LIGUES
 {
     static class Program
     {
+        
         /// <summary>
         /// Point d'entrée principal de l'application.
         /// </summary>
