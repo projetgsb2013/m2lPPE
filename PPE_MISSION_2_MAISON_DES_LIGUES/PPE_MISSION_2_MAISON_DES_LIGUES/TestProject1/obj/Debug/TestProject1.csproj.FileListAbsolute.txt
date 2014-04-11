@@ -1,0 +1,11 @@
+C:\Users\Travail\Desktop\PPE2\Mission5 PPE\PPE2 mission5\mission5IncidentAmelioration\ressources\PPE_MISSION_2_MAISON_DES_LIGUES\TestProject1\bin\Debug\TestProject1.dll
+C:\Users\Travail\Desktop\PPE2\Mission5 PPE\PPE2 mission5\mission5IncidentAmelioration\ressources\PPE_MISSION_2_MAISON_DES_LIGUES\TestProject1\bin\Debug\TestProject1.pdb
+C:\Users\Travail\Desktop\PPE2\Mission5 PPE\PPE2 mission5\mission5IncidentAmelioration\ressources\PPE_MISSION_2_MAISON_DES_LIGUES\TestProject1\bin\Debug\itextsharp.dll
+C:\Users\Travail\Desktop\PPE2\Mission5 PPE\PPE2 mission5\mission5IncidentAmelioration\ressources\PPE_MISSION_2_MAISON_DES_LIGUES\TestProject1\bin\Debug\itextsharp.pdfa.dll
+C:\Users\Travail\Desktop\PPE2\Mission5 PPE\PPE2 mission5\mission5IncidentAmelioration\ressources\PPE_MISSION_2_MAISON_DES_LIGUES\TestProject1\bin\Debug\itextsharp.xtra.dll
+C:\Users\Travail\Desktop\PPE2\Mission5 PPE\PPE2 mission5\mission5IncidentAmelioration\ressources\PPE_MISSION_2_MAISON_DES_LIGUES\TestProject1\bin\Debug\PPE_MISSION_2_MAISON_DES_LIGUES.exe
+C:\Users\Travail\Desktop\PPE2\Mission5 PPE\PPE2 mission5\mission5IncidentAmelioration\ressources\PPE_MISSION_2_MAISON_DES_LIGUES\TestProject1\bin\Debug\PPE_MISSION_2_MAISON_DES_LIGUES.pdb
+C:\Users\Travail\Desktop\PPE2\Mission5 PPE\PPE2 mission5\mission5IncidentAmelioration\ressources\PPE_MISSION_2_MAISON_DES_LIGUES\TestProject1\bin\Debug\itextsharp.xml
+C:\Users\Travail\Desktop\PPE2\Mission5 PPE\PPE2 mission5\mission5IncidentAmelioration\ressources\PPE_MISSION_2_MAISON_DES_LIGUES\TestProject1\obj\Debug\TestProject1.csprojResolveAssemblyReference.cache
+C:\Users\Travail\Desktop\PPE2\Mission5 PPE\PPE2 mission5\mission5IncidentAmelioration\ressources\PPE_MISSION_2_MAISON_DES_LIGUES\TestProject1\obj\Debug\TestProject1.dll
+C:\Users\Travail\Desktop\PPE2\Mission5 PPE\PPE2 mission5\mission5IncidentAmelioration\ressources\PPE_MISSION_2_MAISON_DES_LIGUES\TestProject1\obj\Debug\TestProject1.pdb
